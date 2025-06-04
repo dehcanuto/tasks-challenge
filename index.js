@@ -1,0 +1,1 @@
+app.use('tasks/', require('./routes/task.routes'));
